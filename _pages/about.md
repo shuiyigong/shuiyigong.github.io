@@ -14,7 +14,7 @@ I'm fortunate to be advised by Qiyuan Tian of [BIRTH Lab](https://birthlab.githu
 
 You can find my CV here[Runze Xu's Curriculum Vitae](../assets/CV.pdf)
 
-[Email](xrz21@mails.tsinghua.edu.cn)
+Email:xrz21@mails.tsinghua.edu.cn
 
 A data-driven personal website
 ======
