@@ -111,6 +111,7 @@ strong { color: var(--strong); font-family: var(--serif); font-weight: 600; }
 [data-theme="dark"] .logo-image--dark { display: block; }
 .honors-list { display: grid; grid-template-columns: 1fr 1fr; gap: 0 34px; }
 .honors-list li { padding: 8px 0; border-bottom: 1px solid var(--soft-line); }
+.honors-affiliation { display: block; margin-top: 2px; }
 .honors-list small { display: block; color: var(--muted); }
 .skills-section p { margin: 0; color: var(--muted); }
 
